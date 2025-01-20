@@ -45,6 +45,9 @@ if exist "C:\Program Files (x86)\WildGames\The Chronicles of Emerland Solitaire\
 if exist "C:\Program Files (x86)\WildGames\The Treasures of Mystery Island The Ghost Ship\uninstall\uninstaller.exe" ( start /wait "GS" "C:\Program Files (x86)\WildGames\The Treasures of Mystery Island The Ghost Ship\uninstall\uninstaller.exe" >nul 2>&1 )
 if exist "C:\Program Files (x86)\WildGames\Trinklit Supreme\uninstall\uninstaller.exe" ( start /wait "GS" "C:\Program Files (x86)\WildGames\Trinklit Supreme\uninstall\uninstaller.exe" >nul 2>&1 )
 if exist "C:\Program Files (x86)\WildGames\Vacation Quest - Australia\uninstall\uninstaller.exe" ( start /wait "GS" "C:\Program Files (x86)\WildGames\Vacation Quest - Australia\uninstall\uninstaller.exe" >nul 2>&1 )
+if exist "C:\Program Files (x86)\WildGames\Viking Saga\uninstall\uninstaller.exe" ( start /wait "GS" "C:\Program Files (x86)\WildGames\Viking Saga\uninstall\uninstaller.exe" >nul 2>&1 )
+if exist "C:\Program Files (x86)\WildGames\Sparkle 2\uninstall\uninstaller.exe" ( start /wait "GS" "C:\Program Files (x86)\WildGames\Sparkle 2\uninstall\uninstaller.exe" >nul 2>&1 )
+
 if exist "C:\Program Files (x86)\WildGames\Youda Jewel Shop\uninstall\uninstaller.exe" ( start /wait "GS" "C:\Program Files (x86)\WildGames\Youda Jewel Shop\uninstall\uninstaller.exe" >nul 2>&1 )
 if exist "C:\Program Files (x86)\WildGames\Zumas Revenge\uninstall\uninstaller.exe" ( start /wait "GS" "C:\Program Files (x86)\WildGames\Zumas Revenge\uninstall\uninstaller.exe" >nul 2>&1 )
 if exist "C:\Program Files (x86)\WildTangent Games\Game Explorer Categories - casual\Uninstall.exe" ( start /wait "GS" "C:\Program Files (x86)\WildTangent Games\Game Explorer Categories - casual\Uninstall.exe" >nul 2>&1 )
